@@ -1,0 +1,19 @@
+Id; Title, Author; Pages; Publication_Year; Language; Genre
+1; The Last Song; Nicholas Sparks; 405; 01.09.2009; English; Romance, Tragedy
+2; The Eye of the World; Robert Jordan; 685; 15.01.1990; English; Hihg Fantasy
+3; Elisabeth Sladen: The Autobiography; Elisabeth Sladen; 346; 02.12.2011; English; Biography, Autobiography
+4; Kasacja; Remigiusz Mróz; 493; 01.01.2015; Polish; Mystery, Crime, Legal Thriller
+5; Five Feet Apart; Rachael Lippincott; 304; 20.11.2018; English; Fiction, Romance
+6; Gone Girl; Gillian Flynn; 432; 24.05.2012; English; Thriller, Mystery, Suspense, Fiction
+7; Alice's Adventures in Wonderland; Lewis Carroll; 102; 01.11.1865; English; Fantasy, Literary Nonsense
+8; Kontratyp; Remigiusz Mróz; 532; 19.09.2018; Polish; Mystery, Crime, Legal Thriller
+9; A Court of Thorns and Roses; Sarah J. Maas; 448; 05.05.2015; English; New Adult Fiction, High Fantasy, Romance
+10; Becoming; Michelle Obama; 448; 13.11.2018; English; Memoir, Biography, Autobiography
+11; Where the Crawdads Sing; Delia Owens; 368; 14.08.2018; English; Mystery, Bildungsroman, Literary Fiction
+12; Little Women; Louisa May Alcott; 759; 30.09.1868; English; Fiction, Comedy, Bildungsroman
+13; Pride and Prejudice; Jane Austen; 480; 28.01.1813; English; Fiction, Romance, Satire
+14; The Last Unicorn; Peter S. Beagle; 248; 12.08.1968; English; Fantasy
+15; The Great Gatsby; F. Scott Fitzgerald; 180; 10.04.1925; English; Tragedy, Historical Fiction
+16; The Seven Husbands of Evelyn Hugo; Taylor Jenkins Reid; 400; 13.06.2017; English; Romance, Historical Fiction, Psychological Fiction
+17; Jane Eyre; Charlotte Brontë; 532; 16.10.1847; English; Gothic Romance, Bildungsroman
+18; A Discovery of Witches; Deborah Harkness; 579; 08.02.2011; English; Contemporary Fantasy, Romance
