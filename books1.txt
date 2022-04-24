@@ -1,0 +1,21 @@
+Id; Title; Author; Author_Id; Pages; Publication_Date; Language; Genre; ISBN
+1; The Last Song; Nicholas Sparks; 5; 405; 01.09.2009; English; Romance, Tragedy; 9780446547550
+2; The Eye of the World; Robert Jordan; 4; 816; 15.01.1990; English; Hihg Fantasy; 9780356517004
+3; Elisabeth Sladen: The Autobiography; Elisabeth Sladen; 2; 346; 02.12.2011; English; Biography, Autobiography; 9781306401739
+4; Kasacja; Remigiusz Mróz; 3; 493; 01.01.2015; Polish; Mystery, Crime, Legal Thriller; 9788379762477
+5; Five Feet Apart; Rachael Lippincott; 8; 304; 20.11.2018; English; Fiction, Romance; 9781508267492
+6; Gone Girl; Gillian Flynn; 7; 576; 24.05.2012; English; Thriller, Mystery, Suspense, Fiction; 9780385347774
+7; Alice's Adventures in Wonderland; Lewis Carroll; 6; 102; 01.11.1865; English; Fantasy, Literary Nonsense; 9781539667995
+8; Kontratyp; Remigiusz Mróz; 3; 532; 19.09.2018; Polish; Mystery, Crime, Legal Thriller; 9788379760299
+9; A Court of Thorns and Roses; Sarah J. Maas; 1; 448; 05.05.2015; English; New Adult Fiction, High Fantasy, Romance; 9781619635186
+10; Becoming; Michelle Obama; 9; 448; 13.11.2018; English; Memoir, Biography, Autobiography; 9780241334144
+11; Where the Crawdads Sing; Delia Owens; 10; 368; 14.08.2018; English; Mystery, Bildungsroman, Literary Fiction; 9780735219113
+12; Little Women; Louisa May Alcott; 11; 759; 30.09.1868; English; Fiction, Comedy, Bildungsroman; 9780147514010
+13; Pride and Prejudice; Jane Austen; 12; 480; 28.01.1813; English; Fiction, Romance, Satire; 9780198826737
+14; The Last Unicorn; Peter S. Beagle; 13; 248; 12.08.1968; English; Fantasy; 9780451450523
+15; The Great Gatsby; F. Scott Fitzgerald; 14; 180; 10.04.1925; English; Tragedy, Historical Fiction; 9780333791035
+16; The Seven Husbands of Evelyn Hugo; Taylor Jenkins Reid; 15; 400; 13.06.2017; English; Romance, Historical Fiction, Psychological Fiction; 9781501139239
+17; Jane Eyre; Charlotte Bronte; 16; 532; 16.10.1847; English; Gothic Romance, Bildungsroman; 9780142437209
+18; A Discovery of Witches; Deborah Harkness; 17; 579; 08.02.2011; English; Contemporary Fantasy, Romance; 	9780670022410
+19; All the Bright Places; Jennifer Niven; 18; 304; 06.01.2015; English; Fiction, Young Adult; 9780141357034
+20; A Court of Mist and Fury; Sarah J. Maas; 1; 626; 03.05.2016; English; New Adult Fiction, High Fantasy, Romance; 9781995938144
